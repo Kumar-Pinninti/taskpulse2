@@ -1,0 +1,15 @@
+.box-area {
+  width: 930px;
+}
+
+.left-box {
+  background: #103cbe;
+}
+
+.right-box {
+  padding: 4%;
+}
+
+i {
+  color: #103cbe;
+}
